@@ -11,3 +11,4 @@ Coursera - tech discussion
 
   ### Gist
   Example of [my code] (https://gist.github.com/JStGermain12/94f79bdbe0df7db50c62c8e85e429208)
+  [my code] (https://gist.github.com/JStGermain12/94f79bdbe0df7db50c62c8e85e429208)
