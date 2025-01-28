@@ -8,3 +8,6 @@ Coursera - tech discussion
 * 1
 * 2
 * 3
+
+  ### Gist
+  Example of [my code] <script src="https://gist.github.com/JStGermain12/94f79bdbe0df7db50c62c8e85e429208.js"></script>
